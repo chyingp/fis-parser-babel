@@ -6,7 +6,7 @@ es6 parser for fis
 ### INSTALL
 
 ```bash
-npm install -g xiangshouding/fis-parser-babel
+npm install -g fis-parser-babel
 ```
 
 ### USE
